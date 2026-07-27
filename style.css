@@ -51,7 +51,8 @@ h4{
 }
 .tools-tech{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
     margin-left: 100px;
