@@ -88,6 +88,12 @@ h1{
     --bs-text-opacity: 1;
     color: #470C00 !important;
 }
-footer img {
-  vertical-align: middle;
+.nav-item {
+  display: flex;
+  align-items: center;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
 }
